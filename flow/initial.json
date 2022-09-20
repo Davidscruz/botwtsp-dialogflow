@@ -1,81 +1,183 @@
 [
     {
         "keywords":  [
-            "quiero sushi"
+            "hola",
+            "Hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "Inicio",
+            "welcome",
+            "buenos días",
+            "buen día",
+            "Buen dia",
+            "buen dia",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "necesito saber",
+            "quisiera tener información",
+            "cómo te encuentras?",
+            "cómo estás?",
+            "facultad ingenierias",
+            "quisiera info",
+            "*Hola*",
+            "Holi",
+            "Buenas",
+            "buenas",
+            "Hola cómo estás?",
+            "Buenos días"
         ],
         "key": "STEP_1"
     },
     {
         "keywords":  [
-            "cursos",
-            "info",
-            "curso"        ],
+            "1"
+                    ],
         "key": "STEP_2"
     },
     {
         "keywords":  [
-            "angular"
-        ],
-        "key": "STEP_2_1"
-    },
-    {
-        "keywords":  [
-            "node"
-        ],
-        "key": "STEP_2_2"
-    },
-    {
-        "keywords":  [
-            "ngrx"
-        ],
-        "key": "STEP_2_3"
-    },
-    {
-        "keywords":  [
-            "aws"
-        ],
-        "key": "STEP_2_4"
-    },
-    {
-        "keywords":  [
-            "asesor",
-            "asesores",
-            "Vendedor",
-            "cobrador"
+            "2"
         ],
         "key": "STEP_3"
     },
     {
         "keywords":  [
-            "muchas gracias",
-            "ok",
-            "gracias",
-            "vale gracias"
+            "3"
         ],
         "key": "STEP_4"
     },
     {
         "keywords":  [
-            "youtube"
+            "4"
         ],
         "key": "STEP_5"
     },
     {
         "keywords":  [
-            "VER_CURSOS"
+            "5"
         ],
         "key": "STEP_6"
     },
     {
         "keywords":  [
-            "telegram"
+            "6"
         ],
         "key": "STEP_7"
     },
     {
         "keywords":  [
-            "audio"
+            "7"
         ],
         "key": "STEP_8"
+    },
+    {
+        "keywords":  [
+            "8"
+        ],
+        "key": "STEP_9"
+    },
+    {
+        "keywords":  [
+            "9"
+        ],
+        "key": "STEP_10"
+    },
+    {
+        "keywords":  [
+            "10"
+        ],
+        "key": "STEP_11"
+    },
+    {
+        "keywords": [
+            "11"
+        ],
+        "key":"STEP_12"
+    },
+    {
+        "keywords": [
+            "12"
+        ],
+        "key":"STEP_13"
+    },
+    {
+        "keywords": [
+            "noticias",
+            "portal",
+            "Portal",
+            "Noticias",
+            "Portal noticias",
+            "Portal Noticias",
+            "Portal de noticias VRSBU"
+        ],
+        "key":"STEP_14_1"
+    },
+    {
+        "keywords": [
+            "apoyos",
+            "Apoyos",
+            "apoyos socioeconomicos",
+            "Apoyos Socioeconómicos",
+            "Apoyos Socieconomicos",
+            "Apoyos socieconómicos",
+            "apoyo",
+            "apoyo socioeconómico",
+            "apoyo socieconómico",
+            "Apoyos socioeconómico"
+        ],
+        "key":"STEP_14_2"
+    },
+    {
+        "keywords": [
+            "acompañamiento",
+            "acompañamiento integral",
+            "PAI",
+            "programa acompañamiento",
+            "Acompañamiento",
+            "Acompañamiento Integral",
+            "Programa Acompañamiento",
+            "Programa Acompañamiento Integral",
+            "programa acompañamiento integral",
+            "pai",
+            "Programa Acompañamiento Integral PAI",
+            "programa",
+            "Programa"
+        ],
+        "key":"STEP_14_3"
+    },
+    {
+        "keywords": [
+            "pregunta",
+            "preguntas",
+            "Preguntas",
+            "Preguntas frecuentes",
+            "preguntas frecuentes",
+            "Preguntas Frecuentes",
+            "frecuentes",
+            "Frecuentes",
+            "Preguntas Frecuentes VRSBU"
+        ],
+        "key":"STEP_14_4"
+    },
+
+    {
+        "keywords":[
+            "Gracias",
+            "gracias",
+            "muchas gracias",
+            "Muchas gracias",
+            "Muchas Gracias",
+            "Adiós",
+            "chao",
+            "Chao",
+            "adios",
+            "Listo"
+        ],
+        "key":"STEP_0"
     }
+
+
+
 ]
